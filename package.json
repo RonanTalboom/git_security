@@ -1,0 +1,28 @@
+{
+  "name": "git-security",
+  "version": "1.0.0",
+  "description": "Check git for pushing of keys that should be hidden;",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RonanTalboom/git_security.git"
+  },
+  "keywords": [
+    "git",
+    "env",
+    ".husky",
+    "hooks"
+  ],
+  "author": "Ronan Talboom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RonanTalboom/git_security/issues"
+  },
+  "homepage": "https://github.com/RonanTalboom/git_security#readme",
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  }
+}
